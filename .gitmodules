@@ -1,0 +1,3 @@
+[submodule "destroyfx"]
+	path = destroyfx
+	url = https://github.com/sophiapoirier/destroyfx.git

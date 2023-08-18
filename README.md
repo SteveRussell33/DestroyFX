@@ -1,2 +1,2 @@
 # DestroyFX
-Port of DestroyFX for VCV Rack
+Port of [DestroyFX](https://github.com/sophiapoirier/destroyfx) for VCV Rack
